@@ -1,5 +1,4 @@
-/backend/node_modules/
-efecto3-60/build
-efecto3-60/node_modules
-efecto3-60/readme.md
-efecto3-60/src/data
+backend/node_modules/
+efecto3-60/build/
+efecto3-60/node_modules/
+efecto3-60/src/data/
